@@ -1,0 +1,23 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/calc/calc",
+        "pages/history/history",
+        "pages/logs/logs"
+    ],
+    "subPackages": [],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#bfabfa",
+        "navigationBarTitleText": "简易计算器",
+        "navigationBarTextStyle": "white"
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "你的位置信息将用于小程序位置接口的效果展示"
+        }
+    },
+    "plugins": {},
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}
