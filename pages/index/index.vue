@@ -8,7 +8,7 @@
             <image class="userinfo-avatar" :src="userInfo.avatarUrl" background-size="cover"></image>
         </view>
         <view>
-            <text class="userinfo-nickname">{{ userInfo.nickName }}（Dunizb）</text>
+            <text class="userinfo-nickname">{{ userInfo.nickName }}（Shady）</text>
         </view>
         <view class="usermotto">
             <!-- <text class="user-motto">{{motto}}</text> -->
